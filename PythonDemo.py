@@ -2,9 +2,9 @@ import pandas as pd
 
 # Create a simple DataFrame
 data = {
-    'Name': ['Alice', 'Bob', 'Charlie', 'David'],
+    'Name': ['Asm', 'Lamma', 'Faiz', 'Danish'],
     'Age': [25, 30, 35, 40],
-    'City': ['New York', 'Los Angeles', 'Chicago', 'Houston']
+    'City': ['Nil', 'London', 'india', 'Srg']
 }
 
 # Convert dictionary to DataFrame
